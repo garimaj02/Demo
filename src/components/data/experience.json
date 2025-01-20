@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "role": "Software Development Intern",
+      "organisation": "Career Margdarshn",
+      "startDate": "May, 2023",
+      "endDate": "Nov, 2023",
+      "location": "Delhi",
+      "experiences": [
+        "Developed and maintained features using ReactJS, NodeJS, and MongoDB to enhance platform functionality.",
+        "Built REST APIs for seamless data integration and optimized backend\nperformance for faster response times.",
+        "Gained hands-on experience in full-stack development and agile project workflows."
+        
+      ],
+      "imageSrc": "company/logo.png"
+    }
+    
+  ]
