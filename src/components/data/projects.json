@@ -2,7 +2,7 @@
     {
       "key": 1,
       "title": "BudgetBuddy",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "/assets/projects/project.png",
       "description": "Developed a personal finance management system utilizing HTML, CSS, Node.js, and MongoDB. The application enables\nusers to track income and expenses, generate detailed financial reports, and monitor their financial health in real-time. Implemented secure user authentication using JSON Web Tokens (JWT) and ensured data integrity with encrypted\nstorage. The system features a responsive user interface and efficient data handling through MongoDB. Future\nenhancements planned include API integrations, mobile app development, and advanced financial analytics."
 
       ,
@@ -12,7 +12,7 @@
     {
       "key": 2,
       "title": "Dine-In Delivery",
-      "imageSrc": "projects/food.png",
+      "imageSrc": "/assets/projects/food.png",
       "description": "This project is built using HTML, CSS, and JavaScript. It is a food delivery website where users can browse food items and place orders. After an order is placed, the admin receives a message containing the user's name, contact information, address, and order details.",
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
